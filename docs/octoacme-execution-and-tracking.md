@@ -38,3 +38,21 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Cross-Functional Roles & Responsibilities
+
+During execution, different roles contribute at specific touchpoints:
+
+| Role | Daily Standup | Planning | Reviews | Risk Escalation |
+|------|---------------|----------|---------|-----------------|
+| **Developer** | Reports progress, flags blockers | Estimates work, discusses approach | Demo features, review feedback | Technical risks |
+| **Scrum Master** | Facilitates, removes impediments | Helps shape backlog | Observes, captures improvements | Process blockers |
+| **UX Designer** | May attend async updates | Refines acceptance criteria | Demos designs, gathers feedback | Usability gaps |
+| **QA/Tester** | Reports test results | Reviews acceptance criteria | Validates features | Quality risks |
+| **Business Analyst** | Ad-hoc as needed | Clarifies requirements, edge cases | Validates against requirements | Scope/requirement gaps |
+| **Customer Support** | Escalates critical issues | Shares customer feedback | Participates in demos | Customer-impacting issues |
+| **Security Champion** | Escalates security issues | Reviews security requirements | Reviews code/design for security | Security risks |
+| **Project Manager** | Facilitates, tracks risks | Owns timeline, dependencies | Tracks progress vs. plan | Escalates blockers |
+| **Product Manager** | Prioritization questions | Owns backlog, acceptance criteria | Participates, prioritizes feedback | Business/strategic issues |
+
+**Guideline**: Invite roles based on their relevance to the sprint's work. Minimize ceremony bloat by having optional attendance for supporting roles.
