@@ -41,3 +41,36 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Team Composition & Role Assignment
+
+When planning a new project, explicitly assign roles and responsibilities:
+
+### Essential Roles (Always Required)
+- Project Manager (1)
+- Product Manager (1)
+- Development Team (3-8 typically)
+
+### Recommended Roles (Assign Based on Project Scale & Complexity)
+- Scrum Master (for teams >3 people and iterative delivery)
+- UX Designer (if user-facing changes)
+- QA/Tester (for quality-critical features)
+- Business Analyst (if complex requirements or cross-org dependencies)
+- Security Champion (for security-sensitive features)
+- Customer Support Rep (for customer-facing features)
+
+### Team Assignment Template
+Add to your Project One-pager:
+```yaml
+Team:
+  Project Manager: [Name]
+  Product Manager: [Name]
+  Development Lead: [Name]
+  Developers: [Names]
+  Scrum Master: [Name] - optional
+  UX Designer: [Name] - optional
+  QA Lead: [Name] - optional
+  Business Analyst: [Name] - optional
+  Security Champion: [Name] - optional
+  Customer Support: [Name] - optional
+  Key Stakeholders: [Names/Roles]
